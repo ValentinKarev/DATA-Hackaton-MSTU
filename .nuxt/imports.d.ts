@@ -38,5 +38,4 @@ export { kbdKeysMap, useKbd } from '../node_modules/@nuxt/ui/dist/runtime/compos
 export { localeContextInjectionKey, useLocale } from '../node_modules/@nuxt/ui/dist/runtime/composables/useLocale';
 export { useOverlay } from '../node_modules/@nuxt/ui/dist/runtime/composables/useOverlay';
 export { useToast } from '../node_modules/@nuxt/ui/dist/runtime/composables/useToast';
-export { useNuxtDevTools } from '../node_modules/@nuxt/devtools/dist/runtime/use-nuxt-devtools';
 export { definePageMeta } from '../node_modules/nuxt/dist/pages/runtime/composables';

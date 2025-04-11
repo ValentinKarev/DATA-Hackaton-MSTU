@@ -36,11 +36,6 @@ header {
             color: #0066ff;
             text-decoration: none;
         }
-        @include xl(true) {
-            width: 100%;
-            text-align: center;
-            font-size: 14px;
-        }
     }
 }
 </style>
