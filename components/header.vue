@@ -9,7 +9,7 @@
 header {
     color: black;
     user-select: none;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid rgb(230, 230, 230);
     height: 60px;
     width: 100%;
     position: sticky;
