@@ -5,7 +5,7 @@
     "scripts": {
         "build": "nuxt build",
         "dev": "nuxt dev --host",
-        "generate": "NUXT_APP_BASE_URL=/DATA-Hackaton-MSTU/ npx nuxt build --preset github_pages",
+        "generate": "NUXT_APP_BASE_URL=/DATA-Hackaton-MSTU/ npx nuxt generate --preset github_pages",
         "preview": "nuxt preview",
         "postinstall": "nuxt prepare"
     },
