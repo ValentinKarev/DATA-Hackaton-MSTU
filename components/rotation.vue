@@ -38,7 +38,7 @@ ChartJS.register(
 );
 
 // URL JSON-файла
-const jsonUrl = "/clusters_data.json"; // Замените на реальный URL
+const jsonUrl = "/DATA-Hackaton-MSTU/clusters_data.json"; // Замените на реальный URL
 
 // Состояние компонента
 let chartData = ref(null);

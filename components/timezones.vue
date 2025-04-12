@@ -31,7 +31,7 @@ ChartJS.register(
 );
 
 // URL JSON-файла
-const jsonUrl = "/timezone_info.json"; // Замените на реальный URL
+const jsonUrl = "/DATA-Hackaton-MSTU/timezone_info.json"; // Замените на реальный URL
 
 // Состояние компонента
 let chartData = ref(null);

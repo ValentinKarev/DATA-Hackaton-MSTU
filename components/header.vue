@@ -1,6 +1,6 @@
 <template>
     <header>
-        <div class="header_logo" href="/">ASU_TEAM</div>
+        <div class="header_logo" href="/DATA-Hackaton-MSTU">ASU_TEAM</div>
     </header>
 </template>
 
