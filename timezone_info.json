@@ -1,0 +1,59 @@
+{
+    "clusters": [
+        {
+            "time_zone": "UTC+2",
+            "users_count": 771,
+            "organizations_count": 646
+        },
+        {
+            "time_zone": "UTC+3",
+            "users_count": 65017,
+            "organizations_count": 60243
+        },
+        {
+            "time_zone": "UTC+4",
+            "users_count": 6410,
+            "organizations_count": 6095
+        },
+        {
+            "time_zone": "UTC+5",
+            "users_count": 21938,
+            "organizations_count": 21342
+        },
+        {
+            "time_zone": "UTC+6",
+            "users_count": 870,
+            "organizations_count": 810
+        },
+        {
+            "time_zone": "UTC+7",
+            "users_count": 9155,
+            "organizations_count": 8628
+        },
+        {
+            "time_zone": "UTC+8",
+            "users_count": 3550,
+            "organizations_count": 3356
+        },
+        {
+            "time_zone": "UTC+9",
+            "users_count": 2023,
+            "organizations_count": 1973
+        },
+        {
+            "time_zone": "UTC+10",
+            "users_count": 2340,
+            "organizations_count": 2146
+        },
+        {
+            "time_zone": "UTC+11",
+            "users_count": 2506,
+            "organizations_count": 2476
+        },
+        {
+            "time_zone": "UTC+12",
+            "users_count": 257,
+            "organizations_count": 245
+        }
+    ]
+}
